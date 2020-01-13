@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2EB37866-46C4-A1DF-CA5C-F723D57C4221}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RestartGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ConstantVelocity.cs" Line="10" Column="4" />
+      <File FileName="Assets/Scripts/AddPlayer.cs" Line="24" Column="49" />
+      <File FileName="Assets/Scripts/RestartLevel.cs.cs" Line="2" Column="21" />
+      <File FileName="Assets/Scripts/CopyBallPosition.cs" Line="8" Column="31" />
+      <File FileName="Assets/Scripts/RestartGame.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bailey's First Unity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RestartGame.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="322848e9-0e92-47d7-98f6-488597aab930" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
